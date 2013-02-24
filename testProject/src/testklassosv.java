@@ -7,6 +7,7 @@ public class testklassosv {
 		System.out.println("Hej");
 		System.out.println("wtf");
 		//Detta är ett testprojekt
+		int c = 4; 
 		
 	}
 	
